@@ -12,7 +12,7 @@ Das könnte dir helfen:
 
 * `print('text')`
 * `text = input('Frage an den Benutzer')`
-* Textstrings können mit `+` zusammengefügt werden
+* Um Texte und Variablen zusammenzufüungen benötigst du sogenannte f-strings `print(f"Text hier {Variablenname} text geht weiter.)`
 
 Hinweis: Es geht nicht (nur) darum, die ersten Funktionen der Sprache zu lernen. Die erste Aufgabe ist vor allem ein Test, ob alles richtig installiert ist und läuft: Python 3, PyCharm und git.
 
